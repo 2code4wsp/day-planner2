@@ -38,7 +38,7 @@ $(".saveBtn").click(function() {
 
   console.log('text', text)
   console.log('time', time)
-  localStorage.setItem(time, text)
+  localStorage.setItem(time, text);
 });
 
 
