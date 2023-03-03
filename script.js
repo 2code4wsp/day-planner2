@@ -29,7 +29,7 @@ $(document).ready(function () {
       }
     })
   }
-  // TODO: Add a listener for click events on the save button. This code should
+
 updateTime()
 
 $(".saveBtn").click(function() {
